@@ -1,0 +1,8 @@
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+#leftCol{}
+#rightCol{}
+
+.row{margin-top: 15px}
+
+#menuCategories li a:link, #menuCategories li a:visited{color: black}
+#menuCategories li a:hover{color: red}
